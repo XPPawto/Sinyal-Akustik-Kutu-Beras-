@@ -1,0 +1,16 @@
+Beetle Vibration Column Descriptions
+Trial: Identifies the trial block (A-U) in which each recording was conducted.
+Species: Abbreviated scientific name for each beetle species
+	R. dominica = Rhyzopertha dominica
+	S. zeamais = Sitophilus zeamais
+	T. castaneum = Tribolium castaneum
+Density: The proportional density of insects in the grain mass (units = insects per kilogram). 
+Av_Int: The mean interval (seconds) between vibration pulses 
+Av_Dur: The mean duration (seconds) of each vibration pulse
+Count: The total number of vibration pulses in each recording
+Freq: The mean peak frequency (kHz) of each vibration pulse
+ID: The individual name given to each observation
+logInt: The log transformation of Av_Int
+logCount: The log transformation of Count
+logDur: The log transformation of Av_Dur
+	
