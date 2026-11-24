@@ -1,0 +1,11 @@
+kode,peran,spesies,sensor,fs_asal,durasi_s,n_event,ambang,median_durasi_ms,median_jeda_s
+A3,hama,S. oryzae (larva),PVDF,25000,10.0,99.0,444.9,10.0,0.07
+A4,hama,S. oryzae (larva),akselerometer,25000,10.0,108.0,512.99,10.0,0.05
+A5,hama,S. oryzae (larva),ultrasonik 40 kHz,50000,10.0,50.0,1358.76,10.0,0.12
+A6,hama,S. oryzae (larva),ultrasonik 30 kHz,50000,10.0,33.0,2272.89,10.0,0.245
+A7,hama,S. oryzae (larva),piezoelektrik,25000,10.0,103.0,941.72,10.0,0.05
+A8,hama,S. zeamais (larva),mikrofon,20000,20.9,85.0,1375.35,10.0,0.1
+A9,hama,S. zeamais (dewasa),mikrofon,20000,18.7,175.0,429.01,10.0,0.05
+I3,noise,,,25000,15.0,,,,
+I4,noise,,,25000,15.0,,,,
+I6,noise,,,25000,15.0,,,,

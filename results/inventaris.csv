@@ -1,8 +1,96 @@
-file,fs_hz,durasi_s
-A3-pvdfrw1.wav,25000,10.0
-A4-accelrw.wav,25000,10.0
-A5-w40khzrw1.wav,50000,10.0
-A6-w30khzrw1.wav,50000,10.0
-A7-piezorw1.wav,25000,10.0
-A8-sz-lm3r1_f3-0s.wav,20000,20.9
-A9-sza-mar1f5-0s.wav,20000,18.7
+kode,file,peran,spesies,sensor,fs_hz,durasi_s,kanal,dtype
+A1,A1-dfaccs11.wav,belum dipilih,?,?,25000,30.0,1,int16
+A10,A10-ptr-l-m4r2f4-2s.wav,belum dipilih,?,?,20000,18.6,1,int16
+A11,A11-ptr_adu1-72s.wav,belum dipilih,?,?,20000,21.0,1,int16
+A12,A12-roachmoves_m54524.wav,belum dipilih,?,?,10000,35.4,1,int16
+A2,A2-piezimm1.wav,belum dipilih,?,?,25000,10.0,1,int16
+A3,A3-pvdfrw1.wav,hama,S. oryzae (larva),PVDF,25000,10.0,1,int16
+A4,A4-accelrw.wav,hama,S. oryzae (larva),akselerometer,25000,10.0,1,int16
+A5,A5-w40khzrw1.wav,hama,S. oryzae (larva),ultrasonik 40 kHz,50000,10.0,1,int16
+A6,A6-w30khzrw1.wav,hama,S. oryzae (larva),ultrasonik 30 kHz,50000,10.0,1,int16
+A7,A7-piezorw1.wav,hama,S. oryzae (larva),piezoelektrik,25000,10.0,1,int16
+A8,A8-sz-lm3r1_f3-0s.wav,hama,S. zeamais (larva),mikrofon,20000,20.9,1,int16
+A9,A9-sza-mar1f5-0s.wav,hama,S. zeamais (dewasa),mikrofon,20000,18.7,1,int16
+B1,B1-diaplab.wav,belum dipilih,?,?,25000,30.0,1,int16
+B10,B10-bvws22-2.wav,belum dipilih,?,?,25000,10.0,1,int16
+B11,B11-bvws22-2.wav,belum dipilih,?,?,25000,10.0,1,int16
+B12,B12-greybackgrubt4.wav,belum dipilih,?,?,44100,17.3,1,int16
+B13,B13-childersprj11t03.wav,belum dipilih,?,?,44100,9.6,1,int16
+B14,B14-worm1.wav,belum dipilih,?,?,25000,10.0,1,int16
+B15,B15-tree2ch3-4_snails_20-40s.wav,belum dipilih,?,?,25000,20.0,1,int16
+B2,B2-diapfld.wav,belum dipilih,?,?,25000,13.1,1,int16
+B3,B3-diaprep1.wav,belum dipilih,?,?,25000,10.0,1,int16
+B4a,B4a-grubsnd.wav,belum dipilih,?,?,25000,9.2,1,int16
+B4b,B4b-unid5ed.wav,belum dipilih,?,?,25000,17.0,1,int16
+B4c,B4c-seg20l1.wav,belum dipilih,?,?,25000,15.7,1,int16
+B4d,B4d-seg20r1.wav,belum dipilih,?,?,25000,15.7,1,int16
+B5,B5-mtpt1s1magnoliarootborer.wav,belum dipilih,?,?,25000,10.3,1,int16
+B6,B6-polyphylla.wav,belum dipilih,?,?,16000,15.2,1,uint8
+B7,B7-molcrik1.wav,belum dipilih,?,?,25000,10.0,1,int16
+B8,B8-molecricket4-sept02.wav,belum dipilih,?,?,25000,10.2,1,int16
+B9,B9-worm1.wav,belum dipilih,?,?,25000,10.0,1,int16
+C1,C1-s2b1geoegeriei.wav,belum dipilih,?,?,25000,10.3,1,int16
+C2,C2-s4b2peltprofundus.wav,belum dipilih,?,?,25000,7.2,1,int16
+D1,D1-termite1.wav,belum dipilih,?,?,25000,10.0,1,int16
+D10,D10-oldhouseborer.wav,belum dipilih,?,?,44100,10.2,2,int16
+D11a,D11a-t1seg11a1.wav,belum dipilih,?,?,44100,60.0,1,int16
+D11b,D11b-t1seg11b1.wav,belum dipilih,?,?,44100,60.0,1,int16
+D12,D12-rhinostrid-3beetles.wav,belum dipilih,?,?,44100,16.4,1,int16
+D13,D13-terebinthifolius1-t08-fil250-10k-20s.wav,belum dipilih,?,?,44100,25.2,1,int16
+D14,D14-polygamus1_t19_fil250-10k-short.wav,belum dipilih,?,?,44100,10.0,1,int16
+D15,D15-dendroctonus_valens_china.wav,belum dipilih,?,?,44100,6.8,1,int16
+D16,D16-Hylobius_abietis_adult-500hzfilt.wav,belum dipilih,?,?,44100,12.1,2,int16
+D17,D17-oeleganssa95.wav,belum dipilih,?,?,44100,5.0,1,int16
+D18,D18-mdt04-1p-10s.wav,belum dipilih,?,?,44100,9.8,1,int16
+D2,D2-retic1.wav,belum dipilih,?,?,25000,10.0,1,int16
+D3,D3-gtr2000.wav,belum dipilih,?,?,25000,60.0,1,int16
+D4,D4-termiteheadbanging.wav,belum dipilih,?,?,24000,4.4,1,int16
+D5,D5-formosa1.wav,belum dipilih,?,?,25000,10.0,1,int16
+D6a,D6a-drywoodtermites.wav,belum dipilih,?,?,16000,10.2,1,uint8
+D6b,D6b-termitessrrcoakaed.wav,belum dipilih,?,?,22050,10.5,1,uint8
+D7,D7-trk11-1.wav,belum dipilih,?,?,48000,11.0,1,int16
+D8,D8-albsounds.wav,belum dipilih,?,?,25000,9.9,1,int16
+D9a,D9a-cerambycid2-acc.wav,belum dipilih,?,?,25000,12.0,1,int16
+D9b,D9b-cerambycid2-aed.wav,belum dipilih,?,?,25000,12.0,1,int16
+E1,E1-sawfly.wav,belum dipilih,?,?,25000,10.0,1,int16
+F10a,F10a-psyllid_m_f_int7.wav,belum dipilih,?,?,44100,22.3,1,int16
+F10d,F10d-Groupsyllidcalling2-168-10-01-15.wav,belum dipilih,?,?,48000,15.0,1,int16
+F10e,F10e-syntheticpsyllid1200.wav,belum dipilih,?,?,25000,0.5,1,int16
+F10f,F10f-309b_0f-6min2sseg.wav,belum dipilih,?,?,44100,7.6,1,int16
+F11,F11-brstbugfemcall-f2.wav,belum dipilih,?,?,44100,10.5,1,int16
+F12,F12-bstbugmalecall-m1.wav,belum dipilih,?,?,44100,10.1,1,int16
+F13,F13-brstbugmalefemduet-m3f2.wav,belum dipilih,?,?,44100,20.7,1,int16
+F14,F14-gsbcage.wav,belum dipilih,?,?,44100,16.1,1,int16
+F15,F15-4f-et000911trial1rhopalidshort.wav,belum dipilih,?,?,25000,9.9,1,int16
+F16,F16-3m-et0001300trial3rhopalidshort.wav,belum dipilih,?,?,25000,9.6,1,int16
+F1a,F1a-mosquito.wav,belum dipilih,?,?,25000,10.0,1,int16
+F1b,F1b-aedalbofemale5.wav,belum dipilih,?,?,25000,10.0,1,int16
+F1c,F1c-aedalbomale23.wav,belum dipilih,?,?,25000,6.8,1,int16
+F2,F2-cffcall2.wav,belum dipilih,?,?,25000,7.2,1,int16
+F3,F3-qf241103-seg130s.wav,belum dipilih,?,?,44100,19.7,1,int16
+F4a,F4a-medfly11.wav,belum dipilih,?,?,25000,10.0,1,int16
+F4b,F4b-1029-8o.wav,belum dipilih,?,?,25000,10.0,1,int16
+F4c,F4c-1021-1i.wav,belum dipilih,?,?,25000,4.2,1,int16
+F4d,F4d-sound19.wav,belum dipilih,?,?,25000,3.4,1,int16
+F5,F5-cmargforrmankinjan202004mono.wav,belum dipilih,?,?,16000,53.5,1,int16
+F6a,F6a-hel142.wav,belum dipilih,?,?,25000,3.3,1,int16
+F6b,F6b-hel233bw.wav,belum dipilih,?,?,25000,6.6,1,int16
+F6c,F6c-f35biflora2_2r_6-13.wav,belum dipilih,?,?,25000,2.8,1,int16
+F7a,F7a-sg12buz2.wav,belum dipilih,?,?,50000,9.8,1,int16
+F7b,F7b-sg16buz2.wav,belum dipilih,?,?,50000,11.5,1,int16
+F8,F8-hf1buz5.wav,belum dipilih,?,?,25000,2.9,1,int16
+F9a,F9a-onion3-m.wav,belum dipilih,?,?,25000,17.1,1,int16
+F9b,F9b-onion2-f.wav,belum dipilih,?,?,25000,15.1,1,int16
+G1a,G1a-116a3ant.wav,belum dipilih,?,?,25000,10.0,2,int16
+G1b,G1b-fireants_shortclip.wav,belum dipilih,?,?,25000,11.2,1,int16
+G1c,G1c-dia447.wav,belum dipilih,?,?,44100,11.3,1,int16
+G2,G2-116b9fly.wav,belum dipilih,?,?,25000,10.0,2,int16
+G3,G3-116b6flyant.wav,belum dipilih,?,?,25000,10.0,2,int16
+H3,H3-tree2flt.wav,belum dipilih,?,?,25000,30.1,1,int16
+I1,I1-planeau1.wav,belum dipilih,?,?,25000,30.0,1,int16
+I2,I2-planeau2.wav,belum dipilih,?,?,25000,15.0,1,int16
+I3,I3-monrbck1.wav,noise,background,akselerometer (derau pesawat),25000,15.0,1,int16
+I4,I4-monrbck2.wav,noise,background,akselerometer (derau truk dan pesawat),25000,15.0,1,int16
+I5,I5-monrbck3.wav,belum dipilih,?,?,25000,15.0,1,int16
+I6,I6-nwrec1.wav,noise,background,akselerometer (derau angin lapangan),25000,15.0,1,int16
+I7,I7-dmnurs1.wav,belum dipilih,?,?,25000,15.0,1,int16
