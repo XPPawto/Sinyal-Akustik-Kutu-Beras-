@@ -1,0 +1,10 @@
+Sensor Kutu,Sumber Derau,Delta SNR (0 dB),Recall Sblm (%),Recall Ssdh (%),Status Efektivitas
+A3 (PVDF),Topik 1 (Mendeley Env),1.39,56.6,73.7,Moderat (Spectral Overlap)
+A3 (PVDF),Bug Bytes (I4 Truk/Pesawat),4.41,53.5,75.8,Sangat Optimal (Δ >= +3dB)
+A3 (PVDF),Bug Bytes (I6 Angin Gudang),5.01,45.5,79.8,Sangat Optimal (Δ >= +3dB)
+A4 (Akselerometer),Topik 1 (Mendeley Env),1.4,48.1,61.1,Moderat (Spectral Overlap)
+A4 (Akselerometer),Bug Bytes (I4 Truk/Pesawat),4.19,48.1,85.2,Sangat Optimal (Δ >= +3dB)
+A4 (Akselerometer),Bug Bytes (I6 Angin Gudang),4.56,45.4,75.0,Sangat Optimal (Δ >= +3dB)
+A7 (Piezoelektrik),Topik 1 (Mendeley Env),1.5,61.2,76.7,Moderat (Spectral Overlap)
+A7 (Piezoelektrik),Bug Bytes (I4 Truk/Pesawat),5.27,81.6,84.5,Sangat Optimal (Δ >= +3dB)
+A7 (Piezoelektrik),Bug Bytes (I6 Angin Gudang),5.54,52.4,78.6,Sangat Optimal (Δ >= +3dB)
